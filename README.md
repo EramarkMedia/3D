@@ -21,3 +21,5 @@
  <p>There is a task for you, to get enganged with, and help with the development</p>
  <br><p>Contributions are welcome, to the -dev branch</p>
 </contributions>
+
+<h1>fab fa-discord</h1>
