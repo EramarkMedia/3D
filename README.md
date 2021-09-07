@@ -18,4 +18,5 @@
 
 <contributions>
     <h3>Contributions Are Welcome</h3>
+    <h2>Contributions Are Welcome</h2>
 </contributions>
