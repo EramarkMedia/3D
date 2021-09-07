@@ -4,6 +4,6 @@
     <p>This is the repository used for prototypes as well as developing experimental solutions.</p>
    </header>
 <link>
- <a href="https://www.w3schools.com/">Visit W3Schools.com!</a> 
+ <h3>If you are looking for the main repository, you can find it here</h3><a href="https://github.com/EramarkMedia/Open-Crops/">Open-Crops</a> 
 </link>
 
