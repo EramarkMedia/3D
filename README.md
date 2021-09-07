@@ -1,5 +1,4 @@
 <header>
-    <h1>Open-Crops Tests</h1>
-    <p>Rough development tests</p>
-   
-  </header>
+    <h1>Open-Crops</h1>
+    <p>Prototypes</p>
+   </header>
