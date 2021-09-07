@@ -19,4 +19,5 @@
  <h3>How can i contribute to the project?</h3>
  <p>No matter if you are a Programmer, 3D-Designer, Pixel-Art Artist, Sound Engineer, Or Enthusiast.</p>
  <p>There is a task for you, to get enganged with, and help with the development</p>
+ <br><p>Contributions are welcome, to the -dev branch</p>
 </contributions>
